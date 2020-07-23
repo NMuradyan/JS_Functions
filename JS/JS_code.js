@@ -1,3 +1,4 @@
+//1st
 let n = [2 ,4 ,7 ,5];
 
 function findNamber(n){
@@ -15,6 +16,7 @@ function findNamber(n){
     return maxNum2
 }
 
+//2nd
 let myArray = [1,2,3,4];
 
 function reversArray(myArray) {
@@ -26,6 +28,7 @@ function reversArray(myArray) {
     return myArray2 ;
 }
 
+//3rd
 let myBigString = "Today the day on 2 minutes shorter, then yesterday";
 
 function getArray(myBigString) {
